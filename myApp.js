@@ -1,5 +1,4 @@
 require("dotenv").config();
-const { Schema } = require("mongoose");
 var mongoose = require("mongoose");
 var Schema = mongoose.Schema;
 
